@@ -45,7 +45,7 @@ export default function Home() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Read our docss
+            Read our docsss
           </a>
         </div>
       </main>
